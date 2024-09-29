@@ -25,13 +25,13 @@ Thank you for considering contributing to Numblio! We welcome contributions from
 - **Clone the Fork**: Clone your forked repository to your local machine.
 
   ```bash
-  git clone https://github.com/your-username/numblio.git
+  git clone https://github.com/numblio/repository.git
   ```
 
 - **Set Upstream Remote**: Set the original repository as the upstream remote.
 
   ```bash
-  cd numblio
+  cd repository
   git remote add upstream https://github.com/numblio/numblio.git
   ```
 
@@ -45,7 +45,7 @@ By participating in this project, you agree to abide by the [Numblio Code of Con
 
 ### Reporting Issues
 
-If you encounter a bug or have a question, please check the [existing issues](https://github.com/numblio/numblio/issues) before creating a new one. When reporting a new issue, provide as much detail as possible:
+If you encounter a bug or have a question, please check the [existing issues](https://github.com/numblio/numblio-documentation/issues) before creating a new one. When reporting a new issue, provide as much detail as possible:
 
 - A clear and descriptive title.
 - Steps to reproduce the issue.
